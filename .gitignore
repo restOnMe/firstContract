@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+
+# Hardhat artifacts and build output
+artifacts/
+cache/
+coverage/
+dist/
+.hardhat/
+
+# Environment files (if you're using .env)
+.env
+
+# Log files
+*.log
+
+# IDE and editor-specific files
+.idea/
+.vscode/
+*.code-workspace
+
+# Compiled files (e.g., Solidity bytecode)
+*.json
+
+# Compiled Python files
+__pycache__/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
